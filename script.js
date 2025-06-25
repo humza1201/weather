@@ -1,6 +1,6 @@
 // https://api.openweathermap.org/data/2.5/weather?q=Germany&appid=907c8ecd7b818ddffd1eb6812a993e82&units=metric
 
-const apiKey = '907c8ecd7b818ddffd1eb6812a993e82';
+const apiKey = 'your_api_key';
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 const city = document.querySelector('#city');
